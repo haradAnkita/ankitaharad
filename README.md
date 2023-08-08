@@ -9,7 +9,10 @@
 
 ## ⚡ Domains
 - DevOps
-- Payment Gateway
+- Automation
+- Offline batch payment processing
+- Data warehouse
+- Stored Procedures
 
 ## ⚡ What Drives Me
 - 🎉 My passion lies in implementing best practices and tools that bridge the gap between development and operations
